@@ -7,7 +7,7 @@ OpenVINOのColaboratory上での推論サンプルです。<br>
 * TensorFlow Lite
 * PaddlePaddle
 
-このリポジトリは、[Zenn](https://zenn.dev/)の[OpenVINOで各フレームワーク（ONNX、TensorFlow、TFLite、PaddlePaddle）の重みを読み込んで推論](https://zenn.dev/kazuhito/articles/f9fe5835d8d10d)で説明されているものと同一です。
+このリポジトリは、[Zenn](https://zenn.dev/)の「[OpenVINOで各フレームワーク（ONNX、TensorFlow、TFLite、PaddlePaddle）の重みを読み込んで推論](https://zenn.dev/kazuhito/articles/f9fe5835d8d10d)」で説明されているものと同一です。
 
 # Usage
 Colaboratoryでノートブックを開き、上から順に実行してください。<br>
